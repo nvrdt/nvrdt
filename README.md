@@ -1,0 +1,1 @@
+Not a coder, and if I am, I'm an amateur. If I upload something here, and you're unfortunate enough to happen upon it, my advice is not to download it--I exclusively use GitHub to download new and sketchy packages to break my laptop with.
